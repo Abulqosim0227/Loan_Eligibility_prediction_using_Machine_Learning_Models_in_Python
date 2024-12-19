@@ -85,4 +85,14 @@ A typical dataset for loan eligibility prediction includes:
 
 ---
 
+
+numpy==1.24.3
+pandas==1.5.3
+scikit-learn==1.3.1
+matplotlib==3.7.2
+seaborn==0.12.2
+xgboost==1.7.6
+lightgbm==3.3.5
+joblib==1.3.1
+
 project!
